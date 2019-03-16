@@ -4,11 +4,14 @@ Solution for the error "ubi-partman-crashed"
 
 
 ![n71ML](https://user-images.githubusercontent.com/30818966/54477366-09673e00-482d-11e9-81ed-baa3d1eb29e3.png)
-Annoying right?
+## Annoying right?
+
+
 
 ![Ubuntu-Boot-0_Bytes-01-300x161](https://user-images.githubusercontent.com/30818966/54477377-37e51900-482d-11e9-87b0-05b51ff2dea4.png)
 
-and this? God!!
+
+And this? God!!
 
 Now highlight the kernel you want to use, and press the e key. You should be able to see and edit the commands associated with the highlighted kernel.
 
