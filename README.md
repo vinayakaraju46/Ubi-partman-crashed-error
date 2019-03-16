@@ -1,5 +1,4 @@
 # Ubi-partman-crashed-error while installing ubuntu-18.04 L.T.S
-Solution for the error "ubi-partman-crashed"
 
 
 
@@ -11,7 +10,12 @@ Solution for the error "ubi-partman-crashed"
 ![Ubuntu-Boot-0_Bytes-01-300x161](https://user-images.githubusercontent.com/30818966/54477377-37e51900-482d-11e9-87b0-05b51ff2dea4.png)
 
 
-And this? God!!
+## Here is the solution
+### Boot your pc in uefi mode.
+
+Create a live usb stick with ubuntu-18.04-LTS. 
+
+Boot in to the live usb.
 
 Now highlight the kernel you want to use, and press the e key. You should be able to see and edit the commands associated with the highlighted kernel.
 
