@@ -10,14 +10,15 @@ Annoying right?
 
 and this? God!!
 
-Here is the solution.
 Now highlight the kernel you want to use, and press the e key. You should be able to see and edit the commands associated with the highlighted kernel.
+
 ![1_jGfp94oHM5vgpcMJuiaeSw](https://user-images.githubusercontent.com/30818966/54477397-68c54e00-482d-11e9-9c7a-5bfe91c5a757.jpeg)
 
 Then you'll get something like this...
 ![nomodeset_Linux_HC_ASM_04](https://user-images.githubusercontent.com/30818966/54477400-767ad380-482d-11e9-8f78-5444d2dc385e.png)
 
-Now change "quiet splash" to "quite splash -- pcie_aspm=off"
+Now change "quiet splash" to "quite splash -- pcie_aspm=off".
+
 Don't forget to upgrade your graphic card drivers as soon as the installation is complete.
 
 
