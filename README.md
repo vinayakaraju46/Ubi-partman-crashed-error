@@ -1,4 +1,4 @@
-# Ubi-partman-crashed-error while installing ubuntu-18.04 L.T.S
+# Ubi-partman failed with exit code 10 error while installing ubuntu-18.04 L.T.S
 
 
 
